@@ -19,14 +19,14 @@ const secondUser = {
     gender:"Male",
     age:23,
     email:"wendy@dingdong.com",
-    favoriteColor:["Blue","Black","Grey", "Green"],
+    favoriteColor:["Blue","Black","Grey"],
     isHavePet:false,
     education: [
         { name:"SD 02", city:"Jakarta", graduate:2010 },
         { name:"SMP 03", city:"Bogor", graduate:2013 },
         { name:"SMA 01", city:"Surabaya", graduate:2016 },
         { name:"Universitas Maju", city:"Tangerang", graduate:2010 }],
-    favoriteRestaurant: ["Soto","Sop","Katsu","Geprek","Sambal","Waffle","Croissant"]
+    favoriteRestaurant: ["Soto","Sop","Katsu","Geprek","Sambal","Waffle","Croissant","Ayam Goreng"]
 };
 
 // TODO: Masukkan hasil akhir dari kedua user di sini
